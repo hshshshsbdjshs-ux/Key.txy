@@ -1,1 +1,2 @@
-# Key.txy
+PROXY-A7K2D
+PRPXY-ABDBDB
